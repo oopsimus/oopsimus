@@ -10,4 +10,3 @@ Ici je pose mes scripts, notes, labs, tests et petits outils.
 
 ```text
 work in progress
-```
