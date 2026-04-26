@@ -1,16 +1,14 @@
-## Hi there 👋
+# Oopsimus
 
-<!--
-**oopsimus/oopsimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+[ sys ] [ net ] [ sec ]
+```
 
-Here are some ideas to get you started:
+Je pose ici mes scripts, notes, labs, tests et petits outils.  
+Du système, du réseau, de la sécurité, et quelques trucs cassés puis réparés.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+while true; do learn; break_things; fix_things; done
+```
+
+Work in progress.
